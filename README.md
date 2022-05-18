@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/airamel/third-challenge/">
+    <a href="https://airamel.github.io/third-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://airamel.github.io/third-challenge/">
+    <a href="https://github.com/airamel/third-challenge">
       Solution
     </a>
     <span> | </span>
